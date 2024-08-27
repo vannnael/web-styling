@@ -1,0 +1,47 @@
+.banner {
+    background: url(https://wallpapercave.com/wp/wp2398388.png) 
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #FFF;
+
+}
+
+.tim img {
+    width: 250px;
+    border: 10px solid #CCCC;
+
+}
+
+a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+
+}
+
+.p {
+    font-family: sans-serif;
+}
+
+.client img {
+    display: inline-block;
+    height: auto;
+    max-height: 70px;
+}
+ .p-1 {
+    text-align: center;
+    line-height: 30px;
+ }
+
+ .display-3 {
+    text-align: center;
+    line-height: 120px;
+ }
+
+ 
